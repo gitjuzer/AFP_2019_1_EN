@@ -4,6 +4,7 @@ Requirement specification
 1. Introduction
 
 2. Current situation
+We currently miss godd software for .....
 
 3. Goals
 
