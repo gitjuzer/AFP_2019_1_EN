@@ -10,4 +10,5 @@ We currently miss godd software for .....
 3. Goals
 
 4. Technical requirements
+Should be multi-platform.
 Main targets are: web browsers and mobiles.
