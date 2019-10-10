@@ -2,6 +2,7 @@ Requirement specification
 -------------------------
 
 1. Introduction
+This project is funded by ...
 
 2. Current situation
 We currently miss godd software for .....
