@@ -1,0 +1,10 @@
+Requirement specification
+-------------------------
+
+1. Introduction
+
+2. Current situation
+
+3. Goals
+
+4. Technical requirements
